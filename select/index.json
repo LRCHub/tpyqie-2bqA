@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Take Me Home, Country Roads",
+  "base_artist": "John Denver",
+  "createdAt": "2025-12-10T13:13:09.596196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/01_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "Whitney",
+      "has_synced": true,
+      "path": "select/02_Take_Me_Home,_Country_Roads_Whitney.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TAKE ME HOME,COUNTRY ROADS",
+      "artist": "天使うと",
+      "has_synced": true,
+      "path": "select/03_TAKE_ME_HOME,COUNTRY_ROADS_天使うと.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Home Country Roads",
+      "artist": "小野麗莎",
+      "has_synced": true,
+      "path": "select/04_Take_Me_Home_Country_Roads_小野麗莎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/05_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/06_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "ラナ・デル・レイ",
+      "has_synced": false,
+      "path": "select/07_Take_Me_Home,_Country_Roads_ラナ・デル・レイ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/08_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take me home, country roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/09_Take_me_home,_country_roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "Mountain Man",
+      "has_synced": false,
+      "path": "select/10_Take_Me_Home,_Country_Roads_Mountain_Man.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/11_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Me Home Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/12_Take_Me_Home_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/13_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/14_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/15_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take Me Home Country Roads",
+      "artist": "Yellowman",
+      "has_synced": false,
+      "path": "select/16_Take_Me_Home_Country_Roads_Yellowman.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/17_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Me_Home,_Country_Roads_John_Denver.txt"
+    }
+  ]
+}
