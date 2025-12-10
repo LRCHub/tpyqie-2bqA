@@ -1,0 +1,43 @@
+# John Denver – Take Me Home, Country Roads
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.43] Almost heaven, West Virginia
+[00:12.28] Blue Ridge Mountains, Shenandoah River
+[00:19.76] Life is old there, older than the trees
+[00:25.02] Younger than the mountains, growin' like a breeze
+[00:49.52] 
+[00:30.27] Country roads, take me home
+[00:35.82] To the place I belong
+[00:41.16] West Virginia, Mountain Mama
+[00:47.20] Take me home, country roads
+[01:00.70] 
+[00:54.67] All my memories gather 'round her
+[01:00.33] Miner's lady, stranger to blue water
+[01:07.76] Dark and dusty, painted on the sky
+[01:12.76] Misty taste of moonshine, teardrops in my eyes
+[01:35.76] 
+[01:18.31] Country roads, take me home
+[01:23.89] To the place I belong
+[01:29.73] West Virginia, Mountain Mama
+[01:35.42] Take me home, country roads
+[01:48.92] 
+[01:42.87] I hear her voice, in the mornin' hour she calls me
+[01:47.92] Radio reminds me of my home far away
+[01:53.83] Drivin' down the road, I get a feelin'
+[01:57.74] That I should have been home yesterday, yesterday
+[02:22.24] 
+[02:04.63] Country roads, take me home
+[02:10.19] To the place I belong
+[02:16.29] West Virginia, Mountain Mama
+[02:22.19] Take me home, country roads, everybody sing
+[02:43.69] 
+[02:28.56] Country roads, take me home
+[02:33.76] To the place I belong
+[02:39.83] West Virginia, Mountain Mama
+[02:45.64] Take me home, country roads
+[02:59.14] 
+[02:51.64] Take me home down country roads
+[02:57.22] Take me home down country roads
+```
